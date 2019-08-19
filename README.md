@@ -1,5 +1,5 @@
 # TSP-Python3-GA-SA
-The simplest implementation of Genetic Algorithm and Simulated Annealing Algorithm with TSP problem in Python3.  
+The simplest implementation of Genetic Algorithm and Simulated Annealing Algorithm with Traveling Salesman Problem in Python3.  
 Feel free to ask anything!
 
 ## requirments
